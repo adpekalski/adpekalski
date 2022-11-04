@@ -1,9 +1,9 @@
-👋 Hi, I’m Adrian
-👀 I’m interested in web development
-🌱 I’m currently learning JavaScript
-📫 How to reach me: 
-- E-mail: adpekalski@gmail.com
-- LinkedIn: https://www.linkedin.com/in/adrian-p%C4%99kalski-b2a005172
+- 👋 Hi, I’m Adrian
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: 
+  - E-mail: adpekalski@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/adrian-p%C4%99kalski-b2a005172
 
 
 
